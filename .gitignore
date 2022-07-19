@@ -142,4 +142,4 @@ cython_debug/
 Tests
 db.sqlite3-shm
 db.sqlite3-wal
-
+.idea
